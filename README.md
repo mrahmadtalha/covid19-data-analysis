@@ -25,3 +25,7 @@ git clone https://github.com/mrahmadtalha/covid19-data-analysis.git
 cd covid19-data-analysis
 pip install -r requirements.txt
 streamlit run app.py
+🙋‍♂️ Author
+Ahmad Talha Abid
+🔗 GitHub: mrahmadtalha
+
